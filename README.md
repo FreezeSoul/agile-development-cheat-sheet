@@ -10,7 +10,7 @@ Based on recent studies about agile development. The goal here is to have a star
   4.2 [Nexus](#42-nexus)  
   4.2 LeSS  
   4.4 [SAFe](#44-safe)  
-5. [Agile vs Legacy](##5-agile-vs-legacy)  
+5. [Agile vs Legacy](#5-agile-vs-legacy)  
   5.1 Gartner BiModal  
   5.2 Two speed IT (McKinsey)  
   5.3 Cinefin  
