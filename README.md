@@ -100,6 +100,43 @@ Based on recent studies about agile development. The goal here is to have a star
   - Architecture can simplify synchronization and scaling problems
 ### 4.2 LeSS  
 ### 4.4 SAFe  
+  - Biggest framework for scaling agile out there
+  - Just like the others, revolves around techniques to synchronize the work of all teams involved
+  - Three flavours:
+    - Essential
+      - Starting point for implementation
+    - Portfolio management
+      - Multiple projects
+      - Helps manage and prioritize projects based on value flow
+    - Large solutions
+      - Require multiple teams for the work to be completed
+    - Full SAFe
+      - Union of all flavours
+      - For companies that have multiple and/or large projects
+  - Program Increment (PI)
+    - 8-12 weeks
+      - Timeboxed iteration
+      - Is to program the same as Sprint is to one single team
+    - Present an integrated demonstration
+    - Followed by IP
+  - Innovation and planning (IP) iteration
+    - Retrospectives
+    - Review
+    - Planning
+    - Problem solving
+    - Experimentation (innovation)
+  - Release train
+    - Releases are made on scheduled time
+    - If a team/feature misses a train it will be released on the next
+    - Supported by a specific team (ATR Team)
+  - Implementation
+    - Start small (1-10 teams)
+      - 8-12 weeks
+    - Scale as people learn and adapt
+  - Heavily dependent on DevOps
+    - Technology
+    - Architecture
+    - These two are fundamental to support all the synchronization required
 
 ## 6. Product prioritization techniques
 
