@@ -10,9 +10,9 @@ Based on recent studies about agile development. The goal here is to have a star
   4.2 [Nexus](#42-nexus)  
   4.2 LeSS  
   4.4 [SAFe](#44-safe)  
-5. Agile vs Legacy  
+5. [Agile vs Legacy](##-5-agile-vs-legacy)  
   5.1 Gartner BiModal  
-  5.2 To speed IT (McKinsey)  
+  5.2 Two speed IT (McKinsey)  
   5.3 Cinefin  
 6. [Product prioritization techniques](#6-product-prioritization-techniques)  
 7. [Facilitating retrospective](#7-facilitating-retrospective)  
@@ -137,6 +137,14 @@ Based on recent studies about agile development. The goal here is to have a star
     - Technology
     - Architecture
     - These two are fundamental to support all the synchronization required
+
+## 5. Agile vs Legacy
+
+- Agile deliver value as uncertainty and complexity grows
+- Legacy environments (mainframe, banks, etc) are usually more predictable
+  - The value of agile is diminished in these environments
+  - Tehcnology often doesn't help
+- In this scenario usually agile is used for non legacy projects and waterfall/standard approaches used on the rest
 
 ## 6. Product prioritization techniques
 
