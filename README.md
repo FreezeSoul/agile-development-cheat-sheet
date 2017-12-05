@@ -9,7 +9,7 @@ Based on recent studies about agile development. The goal here is to have a star
   4.1 [Scrum of Scrums](#41-scrum-of-scrums)  
   4.2 [Nexus](#42-nexus)  
   4.2 LeSS  
-  4.4 SAFe  
+  4.4 [SAFe](#44-safe)  
 5. Agile vs Legacy  
   5.1 Gartner BiModal  
   5.2 To speed IT (McKinsey)  
